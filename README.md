@@ -1,2 +1,4 @@
-# Final Report 520h0684_NguyenMinhThien
-Final Report ML
+# Final Report 
+520h0684_NguyenMinhThien 
+519H0044-Hồ Minh Chí Tân
+
